@@ -20,7 +20,7 @@ Axios – HTTP requests
 SheCodes Weather API – Live weather data
 
 📸 **Preview**
-<img width="2022" height="1150" alt="49153" src="https://github.com/45zaki/weather-searchengine-practice" />
+<img width="1556" height="976" alt="53686" src="https://github.com/user-attachments/assets/a3d4f804-a08e-42d6-a780-a2fa843eb8c8" />
 
 
 📂 **Project Structure:**
@@ -53,7 +53,7 @@ const apiKey = "YOUR_API_KEY";
 
 ▶️ **How to Run the Project:**
 -Clone the repository:
-git clone https://github.com/ZakiaPezhman/weather-searchengine-practice.git
+git clone https://github.com/45zaki/weather-searchengine-practice.git
 Open index.html in your browser
 -No installation or build tools required
 
