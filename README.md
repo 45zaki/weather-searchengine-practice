@@ -30,15 +30,15 @@ SheCodes Weather API – Live weather data
 ├── script.js
 
 ⚙️ **How It Works:**
--The user enters a city name
--JavaScript sends a request to the SheCodes Weather API
--The API returns live weather data:
+The user enters a city name
+JavaScript sends a request to the SheCodes Weather API
+The API returns live weather data:
   Temperature
   Date & weekday
   Weather description
   Wind speed
   Humidity
--The UI updates dynamically without reloading the page
+The UI updates dynamically without reloading the page
 
 ⏰ **Timezone Limitation:**
 The date and time displayed in this application are based on the user’s local timezone.
@@ -52,7 +52,7 @@ In script.js, replace YOUR_API_KEY with your own key:
 const apiKey = "YOUR_API_KEY";
 
 ▶️ **How to Run the Project:**
--Clone the repository:
+Clone the repository:
 git clone https://github.com/45zaki/weather-searchengine-practice.git
 Open index.html in your browser
 -No installation or build tools required
