@@ -20,7 +20,7 @@ Axios – HTTP requests
 SheCodes Weather API – Live weather data
 
 📸 **Preview**
-<img width="2022" height="1150" alt="49153" src="https://github.com/user-attachments/assets/85d30a26-f43a-4cd0-b4dd-7b3866a06c24" />
+<img width="2022" height="1150" alt="49153" src="https://github.com/45zaki/weather-searchengine-practice" />
 
 
 📂 **Project Structure:**
