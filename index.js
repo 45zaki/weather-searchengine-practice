@@ -1,14 +1,3 @@
-/*
-Note: this function just return the city+tempreture each time
-
-function displayTemperature(response) {
-  let temperatureElement = document.querySelector(".current-temperature-value");
-  let temperature = Math.round(response.data.temperature.current);
-  let cityElement = document.querySelector("#current-city");
-  cityElement.innerHTML = response.data.city;
-  temperatureElement.innerHTML = temperature;
-}
-*/
 function displayTemperature(response) {
   // Hide welcome panel
   let welcomePanel = document.querySelector("#welcome-panel-ms");
