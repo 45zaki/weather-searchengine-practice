@@ -1,30 +1,30 @@
 🌦️ **Live Weather Search Engine:**
 A modern live weather search application built using HTML, CSS, and JavaScript, powered by the SheCodes Weather API.
-Users can search for any city and view real-time weather information, including temperature, date, day of the week, wind speed, and humidity.
+Users can search for any city and view real-time weather information.
 
 🚀 **Features:**
-Search weather by city name
-Real-time temperature display
-Shows current date and day of the week
-Wind speed information
-Humidity level
-City name and weather description
-Live API-based updates
-Clean and responsive UI
+- Search weather by city name
+- Real-time temperature display
+- Shows current date and day of the week
+- Wind speed information
+- Humidity level
+- City name and weather description
+- Live API-based updates
+- Clean and responsive UI
 
 🛠️ **Technologies Used:**
-HTML5 – Page structure
-CSS3 – Styling and layout
-JavaScript (ES6) – Logic and DOM manipulation
-Axios – HTTP requests
-SheCodes Weather API – Live weather data
+- HTML5 – Page structure
+- CSS3 – Styling and layout
+- JavaScript (ES6) – Logic and DOM manipulation
+- Axios – HTTP requests
+- SheCodes Weather API – Live weather data
 
 📸 **Preview**
 <img width="1556" height="976" alt="53686" src="https://github.com/user-attachments/assets/a3d4f804-a08e-42d6-a780-a2fa843eb8c8" />
 
 
 📂 **Project Structure:**
-/
+
 - `index.html`
 - `style.css`
 - `index.js`
