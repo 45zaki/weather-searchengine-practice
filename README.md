@@ -41,10 +41,7 @@ Users can search for any city and view real-time weather information.
 4. The UI updates dynamically without reloading the page
   
 ⏰ **Timezone Limitation:**
-- The date and time displayed in this application are based on the user’s local timezone.
-- The free SheCodes Weather API does not provide timezone information for searched cities.
-- As a result, JavaScript converts the API timestamp to the browser’s local time instead of the city’s local time.
-- Displaying city-specific local time would require an API that includes timezone offsets or a separate timezone service.
+The date and time displayed in this application are based on the user’s local timezone. The free SheCodes Weather API does not provide timezone information for searched cities. As a result, JavaScript converts the API timestamp to the browser’s local time instead of the city’s local time. Displaying city-specific local time would require an API that includes timezone offsets or a separate timezone service.
 
 🔑 **API Setup:**
 This project uses the SheCodes Weather API.
