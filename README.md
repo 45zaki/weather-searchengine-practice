@@ -38,8 +38,8 @@ Users can search for any city and view real-time weather information.
       - Weather description
       - Wind speed
       - Humidity
-4.The UI updates dynamically without reloading the page
-
+4. The UI updates dynamically without reloading the page
+  
 ⏰ **Timezone Limitation:**
 - The date and time displayed in this application are based on the user’s local timezone.
 - The free SheCodes Weather API does not provide timezone information for searched cities.
