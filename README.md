@@ -33,11 +33,11 @@ Users can search for any city and view real-time weather information.
 1. The user enters a city name
 2. JavaScript sends a request to the SheCodes Weather API
 3. The API returns live weather data:
-  - Temperature
-  - Date & weekday
-  - Weather description
-  - Wind speed
-  - Humidity
+      - Temperature
+      - Date & weekday
+      - Weather description
+      - Wind speed
+      - Humidity
 4.The UI updates dynamically without reloading the page
 
 ⏰ **Timezone Limitation:**
